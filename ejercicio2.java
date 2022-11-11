@@ -1,7 +1,7 @@
 public class ejercicio2 {
 
   public static void main(String[] args) {
-    final int NUMEROMAXIMO = 10;
+    final int NUMEROMAXIMO = 20;
     final int CANTIDADNUMEROS = 30;
     int[] numerosAleatorios = new int [CANTIDADNUMEROS];
 
