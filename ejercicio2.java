@@ -5,7 +5,7 @@ public class ejercicio2 {
     final int CANTIDADNUMEROS = 30;
     int[] numerosAleatorios = new int [CANTIDADNUMEROS];
 
-
+      //Comentario nuevo
       for (int i = 0; i < CANTIDADNUMEROS; i++) {
         numerosAleatorios[i] = (int) (Math.random()*(NUMEROMAXIMO + 1));
 
